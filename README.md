@@ -1,2 +1,2 @@
 # tim-engelen-creative-app-exam
-(https://github.com/user-attachments/assets/128db4a3-345d-4b55-8b2c-5bfa474a91fb)
+This repository contains the final version of my project, which you can access by opening the file qrcode.png and scanning the code. This repository also contains the code I used to create the video, the music, and the QR code to access it.  Even though it wasn't that easy and took a while, I hope I did a good job of providing the code as well as possible. The text file "report" contains important information about the structure of the project and it is therefore useful to read it as the first step.
